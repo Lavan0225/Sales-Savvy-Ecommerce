@@ -145,4 +145,4 @@ docker run -p 5173:5173 sales-savvy-app
 
 ## Kotha Lavan Kumar
 
-Computer Science Engineer | React Developer | AWS Certified
+Computer Science Engineer | React Developer | AWS Certified | Java FullStack Developer |
