@@ -48,44 +48,43 @@ Users can:
 # 📸 Screenshots
 
 ## 🏠 Home Page
-
-![Home](public/Home.png)
+![Home](Screenshots/Home.png)
 
 ---
 
 ## 📱 Products Page
 
-![Products](public/Products.png)
+![Products](Screenshots/Products.png)
 
 ---
 
 ## 🛒 Cart Page
 
-![Cart](public/Cart.png)
+![Cart](Screenshots/Cart.png)
 
 ---
 
 ## 💳 Razorpay Payment
 
-![Payment](public/Payment.png)
+![Payment](Screenshots/Payment.png)
 
 ---
 
 ## 📦 Orders Page
 
-![Orders](public/Orders.png)
+![Orders](Screenshots/Orders.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login](public/login.png)
+![Login](Screenshots/login.png)
 
 ---
 
 ## 📝 Register Page
 
-![Register](public/Register.png)
+![Register](Screenshots/Register.png)
 
 ---
 
