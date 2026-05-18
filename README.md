@@ -1,19 +1,18 @@
-<<<<<<< HEAD
 # 🛒 Sales Savvy Ecommerce App
 
 ## 🚀 Project Overview
 
 Sales Savvy is a modern Ecommerce web application built using React.js.
 
-Users can:
+This project allows users to:
 
 - Browse products
 - Add products to cart
 - Increase/decrease quantity
-- Make payments using Razorpay
+- Make secure payments using Razorpay
 - Place orders
 - Login/Register
-- Admin can add/delete products
+- Manage products through Admin Dashboard
 
 ---
 
@@ -22,10 +21,12 @@ Users can:
 ✅ Home Page  
 ✅ Products Page  
 ✅ Shopping Cart  
-✅ Quantity Update  
+✅ Quantity Management  
 ✅ Razorpay Payment Gateway  
 ✅ Orders Page  
-✅ Login & Register  
+✅ Login System  
+✅ Register System  
+✅ Logout Functionality  
 ✅ Admin Dashboard  
 ✅ Add/Delete Products  
 ✅ Responsive UI  
@@ -43,12 +44,14 @@ Users can:
 - Razorpay
 - LocalStorage
 - Docker
+- Git & GitHub
 
 ---
 
 # 📸 Screenshots
 
 ## 🏠 Home Page
+
 ![Home](Screenshots/Home.png)
 
 ---
@@ -94,7 +97,7 @@ Users can:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sales-Savvy-Ecommerce.git
+git clone https://github.com/Lavan0225/Sales-Savvy-Ecommerce.git
 ```
 
 ---
@@ -133,11 +136,12 @@ docker run -p 5173:5173 sales-savvy-app
 
 # 🚀 Future Enhancements
 
-- Backend Integration
+- Spring Boot Backend Integration
 - MySQL Database
 - JWT Authentication
-- Multi-user System
+- Multi-user Ecommerce System
 - Admin Analytics Dashboard
+- Product Search & Filters
 
 ---
 
@@ -145,154 +149,7 @@ docker run -p 5173:5173 sales-savvy-app
 
 ## Kotha Lavan Kumar
 
-Computer Science Engineer | React Developer | AWS Certified | Java Fullstack Developer |
-=======
-# 🛒 Sales Savvy Ecommerce App
-
-## 🚀 Project Overview
-
-Sales Savvy is a modern Ecommerce web application built using React.js.
-
-Users can:
-
-- Browse products
-- Add products to cart
-- Increase/decrease quantity
-- Make payments using Razorpay
-- Place orders
-- Login/Register
-- Admin can add/delete products
-
----
-
-# ✨ Features
-
-✅ Home Page  
-✅ Products Page  
-✅ Shopping Cart  
-✅ Quantity Update  
-✅ Razorpay Payment Gateway  
-✅ Orders Page  
-✅ Login & Register  
-✅ Admin Dashboard  
-✅ Add/Delete Products  
-✅ Responsive UI  
-✅ Docker Support  
-
----
-
-# 🛠️ Technologies Used
-
-- React.js
-- React Router DOM
-- Context API
-- JavaScript
-- CSS
-- Razorpay
-- LocalStorage
-- Docker
-
----
-
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-![Home](public/Home.png)
-
----
-
-## 📱 Products Page
-
-![Products](public/Products.png)
-
----
-
-## 🛒 Cart Page
-
-![Cart](public/Cart.png)
-
----
-
-## 💳 Razorpay Payment
-
-![Payment](public/Payment.png)
-
----
-
-## 📦 Orders Page
-
-![Orders](public/Orders.png)
-
----
-
-## 🔐 Login Page
-
-![Login](public/login.png)
-
----
-
-## 📝 Register Page
-
-![Register](public/Register.png)
-
----
-
-# ⚙️ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Sales-Savvy-Ecommerce.git
-```
-
----
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## Run Project
-
-```bash
-npm run dev
-```
-
----
-
-# 🐳 Docker Setup
-
-## Build Docker Image
-
-```bash
-docker build -t sales-savvy-app .
-```
-
-## Run Docker Container
-
-```bash
-docker run -p 5173:5173 sales-savvy-app
-```
-
----
-
-# 🚀 Future Enhancements
-
-- Backend Integration
-- MySQL Database
-- JWT Authentication
-- Multi-user System
-- Admin Analytics Dashboard
-
----
-
-# 👨‍💻 Author
-
-## Kotha Lavan Kumar
-
-Computer Science Engineer | React Developer | AWS Certified | Java FullStack Developer |
->>>>>>> 214eab6b94daafc49248650e865d0f1a19c5f74f
+Computer Science Engineer  
+React Developer  
+AWS Certified Cloud Practitioner
+Java Fullstack Developer
